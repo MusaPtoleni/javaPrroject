@@ -1,0 +1,14 @@
+Order Number: 5586
+Customer: musa toleni
+Email: musa@gmilaj.com
+Phone Number: 6211546
+Address: 41 Mazizi Khayelitsha
+Location: Cape Town
+You have ordered the follow from  Ocean canada in Cape Town
+ :2x Burger 0.0
+Special Instruction: not at the moment
+Total:  62.0
+Miranda Metcalfe is the nearest to the restaurant and so he will be delivering your order to you at: 
+
+null
+If you need to conact the restaurant, their number is is: 2154565

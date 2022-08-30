@@ -1,0 +1,15 @@
+Order Number: 5566
+Customer: musa
+Email: mus@gmail.com
+Phone Number: 615586622
+Address: 41 mazizi
+Location: Cape Town
+
+You have ordered the follow from  cc Res in Cape Town
+ :2x fish 23.0
+Special Instruction: no thank you
+Total:  212235.0
+Miranda Metcalfe is the nearest to the restaurant and so he will be delivering your order to you at: 
+
+null
+If you need to conact the restaurant, their number is is: 23556n
